@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "external",
+  "name": "App Sample to host external content",
   "icons": [
     {
       "src": "favicon.ico",
